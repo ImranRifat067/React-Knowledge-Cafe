@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover_img": "https://i.ibb.co/WKD4VFx/astronaut-explores-outer-dark-space-generative-al.jpg",
+      "title": "Exploring the Cosmos A Journey Through Space",
+      "author": "Dr. Astrid Smith",
+      "author_img": "https://i.ibb.co/y89yN5F/836.jpg",
+      "posting_date": "2024-03-12",
+      "reading_time": 30,
+      "tags": ["space", "astronomy", "exploration"]
+    },
+    {
+      "id": 2,
+      "cover_img": "https://i.ibb.co/McfBQSz/2150690631.jpg",
+      "title": "The Art of Cooking Mastering Culinary Techniques",
+      "author": "Chef Marco Pierre",
+      "author_img": "https://i.ibb.co/CVmBcN6/6d90f194-62e6-414a-8095-ec9348e109de.jpg",
+      "posting_date": "2024-03-11",
+      "reading_time": 45,
+      "tags": ["cooking", "culinary", "recipes"]
+    },
+    {
+      "id": 3,
+      "cover_img": "https://i.ibb.co/PgVh5sB/ai-technology-brain-background-digital-transformation-concept.jpg",
+      "title": "Understanding Artificial Intelligence From Basics to Applications",
+      "author": "Dr. Sophia Lee",
+      "author_img": "https://i.ibb.co/CPp98Wn/307ce493-b254-4b2d-8ba4-d12c080d6651.jpg",
+      "posting_date": "2024-03-10",
+      "reading_time": 60,
+      "tags": ["AI", "machine learning", "technology"]
+    },
+    {
+      "id": 4,
+      "cover_img": "https://i.ibb.co/NjCgWtd/OSVO010.jpg",
+      "title": "The Power of Mindfulness Finding Peace in a Busy World",
+      "author": "Mindful Living Institute",
+      "author_img": "https://i.ibb.co/y89yN5F/836.jpg",
+      "posting_date": "2024-03-09",
+      "reading_time": 20,
+      "tags": ["mindfulness", "meditation", "self-help"]
+    },
+    {
+      "id": 5,
+      "cover_img": "https://i.ibb.co/qgp8m1F/1907-i126-028-egyptian.jpg",
+      "title": "Exploring Ancient Civilizations Unraveling Mysteries of the Past",
+      "author": "Dr. Archaeo Smith",
+      "author_img": "https://i.ibb.co/CPp98Wn/307ce493-b254-4b2d-8ba4-d12c080d6651.jpg",
+      "posting_date": "2024-03-08",
+      "reading_time": 40,
+      "tags": ["history", "archaeology", "ancient civilizations"]
+    }
+  ]
+  
